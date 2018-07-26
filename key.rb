@@ -20,7 +20,7 @@ def name=(name)     #setter: allow the user to change information about the obje
   @name = name
 end
 
-def name          #getter: tells the person info that is stored within the class
+def name #getter: tells the person info that is stored within the class
   @name
 end
 
@@ -53,3 +53,5 @@ def introduce_self
  end
 
 end
+
+

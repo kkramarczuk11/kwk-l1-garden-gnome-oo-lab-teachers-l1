@@ -29,3 +29,7 @@ class GardenGnome #way to group a bunch of items with the same objects with same
   end
 
 end
+
+gnome = GardenGnome.new
+gnome.name = "Max"
+puts gnome.name
